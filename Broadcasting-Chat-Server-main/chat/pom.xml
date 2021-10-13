@@ -14,7 +14,7 @@
     <name>chat</name>
     <description>CHATROOM</description>
     <properties>
-        <java.version>16</java.version>
+        <java.version>11</java.version>
     </properties>
 
     <profiles>
